@@ -1,3 +1,6 @@
+Matt Feller's fork of the ReProver tool for developing a new LLM-based conjecture component.
+______________________________________________________________________
+
 # Retrieval-Augmented Prover (ReProver)
 
 ![Model](images/ReProver.jpg)
